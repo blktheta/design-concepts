@@ -1,4 +1,4 @@
-# The Sketchbook
+# Sketchbook
 Notes on design patterns and principles to help me become a better software developer.
 
 ## Resources
